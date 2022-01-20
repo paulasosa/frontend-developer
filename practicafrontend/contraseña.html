@@ -22,15 +22,14 @@
         body {
             margin: 0;
             font-family: 'Quicksand', sans-serif;
-            display: grid;
+            display: grid;/*Agrego esta línea y la siguiente para conseguir que se centre la visualización*/
             justify-content: center;
         }
         .login {
-            width: 100%;
-            height: 100%;
             display: grid;
-            /*place-items: center;*/
-            justify-items: center;
+            place-items: center;
+            width: 100%;
+            height: 100%;/*Si lo pongo con 100vh, queda muy al final y con scrollmpara poder verlo*/
         }
         .form-container {
             display: grid;
@@ -66,16 +65,15 @@
             margin-bottom: 4px;
         }
         .input {
+            cursor: pointer;
+            padding: 6px;
+            margin-bottom: 12px;
             background-color: var(--text-input-field);
             border: none;
             border-radius: 8px;
             height: 30px;
             font-size: var(--md)
         }
-        .input {
-            padding: 6px;
-            margin-bottom: 12px;
-        }    
         .primary-button {
             background-color: var(--hospital-green);
             border: none;
@@ -88,7 +86,7 @@
             height: 50px;
         }
         .login-button {
-            margin-top: 14px;
+            margin-top: 20px;
             margin-bottom: 30px;
         }
         @media (max-width: 640px) {
@@ -113,7 +111,7 @@
         <input type="password" id="password" placeholder="*********" class="input input-password">
     </form>
     <form action="/" class="form">
-        <label for="new-password" class="label">Password</label>
+        <label for="new-password" class="label">Re-enter password</label>
         <input type="password" id="new-password" placeholder="*********" class="input input-password">
 
         <input type="submit" value="Confirm" class="primary-button login-button">
