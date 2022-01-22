@@ -8,16 +8,15 @@ Por el momento todo el proyecto será presentado personalizado en HTML & CSS com
 
 En clase se llevo el siguiente orden:
 
-- Crea contraseña html & css
-- Email enviado
-- Login
-- Crear y editar mi cuenta
-- Mi cuenta
-- Pagina de inicio
-- Menu desktop
-- Menu mobile
-- Mi orden
-- Mis ordenes
-- Navbar
-- Detalle de producto
-- Carrito de compras
+- Crea contraseña html & css (contraseña.html)
+- Email enviado (email.html)
+- Login (login.html)
+- Crear y editar mi cuenta (cecuenta.html-edcuenta.html)
+- Pagina de inicio (inicio.html)
+- Menu desktop (menudesktop.html)
+- Menu mobile (menumobile.html)
+- Mi orden (miorden.html)
+- Mis ordenes (misordenes.html)
+- Navbar (navbar.html)
+- Detalle de producto (producto.html)
+- Carrito de compras (shoppingcart.html)
