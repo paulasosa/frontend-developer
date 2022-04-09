@@ -1,0 +1,28 @@
+body {
+    padding: 10%;
+    padding-right: 10%;
+    max-width: 90%;
+    height: auto;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+h2 {
+    text-align: center;
+}
+.title-page {
+    color: rgb(228, 61, 20);
+}
+li {
+    list-style: none;
+    border-bottom: 20px;
+    flex-direction: initial;
+    text-align: center;
+}
+.title-sections {
+    color: rgb(16, 62, 214);
+}
+p {
+    text-align: justify;
+}
