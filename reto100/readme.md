@@ -10,6 +10,8 @@ Starting day: 7 of April 2022.
 Day 1. 
 - First open all the files like .gitignore, readme, index1, with git bash, do the commits and push to github!.
 
+Day 2.
+- Starting with styles, with a little color and justify and do a little responsive design.
 
 If you are here, please come one and see my portfolio!
 
