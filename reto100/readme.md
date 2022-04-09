@@ -11,7 +11,7 @@ Day 1.
 - First open all the files like .gitignore, readme, index1, with git bash, do the commits and push to github!.
 
 Day 2.
-- Starting with styles, with a little color and justify and do a little responsive design.
+- Starting with styles, with a little color, get better structure, justify-content, separate the footer and I was doing a little thing about responsive design.
 
 If you are here, please come one and see my portfolio!
 
