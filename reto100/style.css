@@ -12,7 +12,7 @@ h2 {
     text-align: center;
 }
 .title-page {
-    color: rgb(228, 61, 20);
+    color: rgb(219, 55, 55);
 }
 li {
     list-style: none;
@@ -21,8 +21,20 @@ li {
     text-align: center;
 }
 .title-sections {
-    color: rgb(16, 62, 214);
+    color: rgb(219, 55, 55);
 }
 p {
     text-align: justify;
+}
+footer {
+    text-align: end;
+    padding-left: 50%;
+    padding-top: 20%;
+}
+.footer {
+    text-align: justify;
+}
+h3 {
+    text-align: left;
+    color: brown;
 }
