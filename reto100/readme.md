@@ -13,6 +13,9 @@ Day 1.
 Day 2.
 - Starting with styles, with a little color, get better structure, justify-content, separate the footer and I was doing a little thing about responsive design.
 
+Day 3.
+- Today I start with the navegation inside the page.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
