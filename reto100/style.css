@@ -38,3 +38,34 @@ h3 {
     text-align: left;
     color: brown;
 }
+a {
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header nav .nav-center-section {
+    width: 50%;
+    height: 20%;
+    justify-content: right;
+    display: flex;
+    justify-items: center;
+    margin: 1%;
+    padding-top: 1%;
+    padding-left: 50%;
+}
+nav .nav-center-section a {
+    margin-right: 20px;
+    color: blue;
+    font-style: italic;
+    font-size: larger;
+}
+
+footer a {
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+    font-style: italic;
+    font-size: larger;
+}
