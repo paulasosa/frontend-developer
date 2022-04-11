@@ -16,6 +16,9 @@ Day 2.
 Day 3.
 - Today I start with the navegation inside the page.
 
+Day 4.
+- I start to think about the content or info we going to have on the page. So I research and look another's blogs for ideas about the design, in this moment I have to be honest, I am not a designer, so I have to look for something beautiful and test if I liked.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
