@@ -19,6 +19,9 @@ Day 3.
 Day 4.
 - I start to think about the content or info we going to have on the page. So I research and look another's blogs for ideas about the design, in this moment I have to be honest, I am not a designer, so I have to look for something beautiful and test if I liked.
 
+Day 5. 
+- The plan is to add the page images and animations, but I don´t know completely how to do this, so, today, I was reviewing and learning more about this issue in the class of Platzi.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
