@@ -22,6 +22,9 @@ Day 4.
 Day 5. 
 - The plan is to add the page images and animations, but I don´t know completely how to do this, so, today, I was reviewing and learning more about this issue in the class of Platzi.
 
+Day 6.
+- Today I was applying everything I learned, and how much I still have to learn about the images on the page. You can see that images were added so that they adapt to all screens and also that in this adaptation they do not pixelate, there is still a lot to learn but "display: flex" has become my best friend!
+
 If you are here, please come one and see my portfolio!
 
 Good day!

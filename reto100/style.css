@@ -4,12 +4,36 @@ body {
     max-width: 90%;
     height: auto;
 }
+figure {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin: none;
+    padding: none;
+    overflow: hidden;
+}
+img {
+    width: 50%;
+    height: 50%;
+    max-width: 600px;
+    max-height: 1000px;
+    object-fit: cover;
+    object-position: center center;
+    margin-top: 3%;
+}
+.foot_image {
+    text-align: center;
+}
 h1 {
     text-align: center;
     color: brown;
 }
 h2 {
     text-align: center;
+    margin-top: 3%;
 }
 .title-page {
     color: rgb(219, 55, 55);
@@ -68,4 +92,7 @@ footer a {
     color: blue;
     font-style: italic;
     font-size: larger;
+}
+.sec_aboutme p {
+    text-align: center;
 }
