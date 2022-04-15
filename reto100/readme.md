@@ -7,29 +7,29 @@ Also I go to practice my english, starting with the commits and all the things I
 
 Starting day: 7 of April 2022.
 
-Day 1. 
+Day 1. (7 of April 2022)
 - First open all the files like .gitignore, readme, index1, with git bash, do the commits and push to github!.
 
-Day 2.
+Day 2. (8 of April 2022)
 - Starting with styles, with a little color, get better structure, justify-content, separate the footer and I was doing a little thing about responsive design.
 
-Day 3.
+Day 3. (9 of April 2022)
 - Today I start with the navegation inside the page.
 
-Day 4.
+Day 4. (10 of April 2022)
 - I start to think about the content or info we going to have on the page. So I research and look another's blogs for ideas about the design, in this moment I have to be honest, I am not a designer, so I have to look for something beautiful and test if I liked.
 
-Day 5. 
+Day 5. (11 of April 2022)
 - The plan is to add the page images and animations, but I don´t know completely how to do this, so, today, I was reviewing and learning more about this issue in the class of Platzi.
 
-Day 6.
+Day 6. (12 of April 2022)
 - Today I was applying everything I learned, and how much I still have to learn about the images on the page. You can see that images were added so that they adapt to all screens and also that in this adaptation they do not pixelate, there is still a lot to learn but "display: flex" has become my best friend!
 
-Day 7. 
+Day 7. (13 of April 2022)
 - To be honest, it was a day of free time!
     Jeje No, I was trying to add one video and do all the css I know for this, the video doesn't reproduce, so tomorrow I go to fixed it!
 
-Day 8. 
+Day 8. (14 of April 2022)
 - The video is fixed! With controls and preload! This can be a little thing for you, but for me is something I am happy to learn!
 
 If you are here, please come one and see my portfolio!
