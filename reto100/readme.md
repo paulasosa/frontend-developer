@@ -25,6 +25,13 @@ Day 5.
 Day 6.
 - Today I was applying everything I learned, and how much I still have to learn about the images on the page. You can see that images were added so that they adapt to all screens and also that in this adaptation they do not pixelate, there is still a lot to learn but "display: flex" has become my best friend!
 
+Day 7. 
+- To be honest, it was a day of free time!
+    Jeje No, I was trying to add one video and do all the css I know for this, the video doesn't reproduce, so tomorrow I go to fixed it!
+
+Day 8. 
+- The video is fixed! With controls and preload! This can be a little thing for you, but for me is something I am happy to learn!
+
 If you are here, please come one and see my portfolio!
 
 Good day!
