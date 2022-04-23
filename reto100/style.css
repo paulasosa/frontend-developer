@@ -4,9 +4,11 @@
     --brown: #a52a2a;
     --tittle: rgb(219, 55, 55);
     --link: blue;
-    --Light_300: 14px;
-    --Regular_400: 16px;
-    --Bold_700: 18px;
+    --link_font: 20px;
+    --Light_300: 24px;
+    --tittle_text: 30px;
+    --Regular_400: 35px;
+    --Bold_700: 40px;
 }
 
 body {
@@ -17,7 +19,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     background-color: var(--white);
 }
-body p {
+.text {
     color: var(--black);
     font-size: var(--Light_300);
 }
@@ -42,9 +44,6 @@ img {
     object-position: center center;
     margin-top: 3%;
 }
-.foot_image {
-    text-align: center;
-}
 h1 {
     text-align: center;
     color: var(--brown);
@@ -66,7 +65,7 @@ video {
 }
 .title-page {
     color: var(--tittle);
-    font-size: var(--Regular_400);
+    font-size: var(--Bold_700);
 }
 li {
     list-style: none;
@@ -76,9 +75,15 @@ li {
 }
 .title-sections {
     color: var(--tittle);
+    font-size: var(--Regular_400);
 }
 p {
     text-align: justify;
+    font-size: var(--Light_300);
+}
+.foot_image {
+    text-align: center;
+    font-size: var(--link_font);
 }
 footer {
     text-align: end;
@@ -87,10 +92,12 @@ footer {
 }
 .footer {
     text-align: justify;
+    font-size: var(--Light_300);
 }
 h3 {
     text-align: left;
     color: var(--brown);
+    font-size: var(--tittle_text);
 }
 a {
     list-style: none;
@@ -107,7 +114,7 @@ header nav .nav-center-section {
     margin: 1%;
     padding-top: 1%;
     padding-left: 50%;
-    font-size: var(--Regular_400);
+    font-size: var(--link_font);
 }
 nav .nav-center-section a {
     margin-right: 20px;
@@ -123,8 +130,13 @@ footer a {
     color: var(--link);
     font-style: italic;
     font-size: larger;
-    font-size: var(--Regular_400);
+    font-size: var(--link_font);
 }
 .sec_aboutme p {
     text-align: center;
+    font-size: var(--Light_300);
+}
+.sec_aboutme .foot_image {
+        text-align: center;
+        font-size: var(--link_font);
 }
