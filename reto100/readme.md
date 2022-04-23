@@ -32,6 +32,11 @@ Day 7. (13 of April 2022)
 Day 8. (14 of April 2022)
 - The video is fixed! With controls and preload! This can be a little thing for you, but for me is something I am happy to learn!
 
+Day 9. (22 of April 2022)
+- Sometimes you need to stop, see all in perspective, and have an idea what is the things you like to do. 
+- Also not all the time do you have to code, for a long time you have to study what is the thing you like to do in the code, so in the past few days, I was studying.
+- Today I put in this repository the fonts, variables of size and color, one root in the CSS file, and also I think this going to do more easy future changes in the code.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
