@@ -37,6 +37,9 @@ Day 9. (22 of April 2022)
 - Also not all the time do you have to code, for a long time you have to study what is the thing you like to do in the code, so in the past few days, I was studying.
 - Today I put in this repository the fonts, variables of size and color, one root in the CSS file, and also I think this going to do more easy future changes in the code.
 
+Day 10. (1 of May 2022)
+- After almost two weeks without knowing what to do, and with some medical indispositions. I have returned to the challenge, this time we are going to generate a contact form and suggestions for new places to visit.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
