@@ -140,3 +140,15 @@ footer a {
         text-align: center;
         font-size: var(--link_font);
 }
+
+form {
+    font-size: var(--Light_300);
+    display: grid;
+    justify-content: center;
+}
+form input {
+    font-size: var(--link_font);
+    justify-items: center;
+    text-align: center;
+    margin: 10px;
+}
