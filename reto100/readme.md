@@ -40,6 +40,12 @@ Day 9. (22 of April 2022)
 Day 10. (1 of May 2022)
 - After almost two weeks without knowing what to do, and with some medical indispositions. I have returned to the challenge, this time we are going to generate a contact form and suggestions for new places to visit.
 
+Day 11. (3 of May 2022)
+- Went you have to write code, find the images, think about design, write the post, it's a little complicated went you aren't a writer, a designer, or a programmer. But that is the challenge so on this day I writed my first post "Guatape".
+
+Day 12. (4 of May 2022)
+- Not all the things function, on the first try, so, but I wrote the post in Spanish, so on this day, I go to translate and also write the second post.
+
 If you are here, please come one and see my portfolio!
 
 Good day!
