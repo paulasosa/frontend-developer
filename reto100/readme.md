@@ -44,7 +44,7 @@ Day 11. (3 of May 2022)
 - Went you have to write code, find the images, think about design, write the post, it's a little complicated went you aren't a writer, a designer, or a programmer. But that is the challenge so on this day I writed my first post "Guatape".
 
 Day 12. (4 of May 2022)
-- Not all the things function, on the first try, so, but I wrote the post in Spanish, so on this day, I go to translate and also write the second post.
+- Not all the things function, on the first try, so, but I wrote the post in Spanish, so on this day, I go to translate and also do the footer.
 
 If you are here, please come one and see my portfolio!
 
