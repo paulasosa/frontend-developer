@@ -152,3 +152,8 @@ form input {
     text-align: center;
     margin: 10px;
 }
+.comment_form {
+    text-align: center;
+    font-size: var(--Light_300);
+    text-decoration: underline;
+}
