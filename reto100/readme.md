@@ -46,6 +46,9 @@ Day 11. (3 of May 2022)
 Day 12. (4 of May 2022)
 - Not all the things function, on the first try, so, but I wrote the post in Spanish, so on this day, I go to translate and also do the footer.
 
+Day 13. (6 of May 2022)
+- I write things about myself that I have in my mind, it's like a description of my self-discovery. And attached a link to the principal page to redirect the people who want to see it!
+
 If you are here, please come one and see my portfolio!
 
 Good day!
