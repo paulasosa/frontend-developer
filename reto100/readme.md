@@ -46,8 +46,13 @@ Day 11. (3 of May 2022)
 Day 12. (4 of May 2022)
 - Not all the things function, on the first try, so, but I wrote the post in Spanish, so on this day, I go to translate and also do the footer.
 
-Day 13. (6 of May 2022)
+Day 13. (5 of May 2022)
 - I write things about myself that I have in my mind, it's like a description of my self-discovery. And attached a link to the principal page to redirect the people who want to see it!
+
+Day 14. (6 od May 2022)
+- I am trying to add things with value for me, it's not only pushing all the code existing in the world to this blog or this page.
+No, this challenge is helping me to express myself and to learn, to create more things, but with value for me and the people going to read the blog.
+Today, I add the traduction about myself, and images with my family, to complete all the section about me.
 
 If you are here, please come one and see my portfolio!
 
