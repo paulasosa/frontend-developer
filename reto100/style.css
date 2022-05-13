@@ -1,0 +1,159 @@
+:root {
+    --white: #ffffff;
+    --black: #000;
+    --brown: #a52a2a;
+    --tittle: rgb(219, 55, 55);
+    --link: blue;
+    --link_font: 20px;
+    --Light_300: 24px;
+    --tittle_text: 30px;
+    --Regular_400: 35px;
+    --Bold_700: 40px;
+}
+
+body {
+    padding: 10%;
+    padding-right: 10%;
+    max-width: 90%;
+    height: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: var(--white);
+}
+.text {
+    color: var(--black);
+    font-size: var(--Light_300);
+}
+figure {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin: none;
+    padding: none;
+    overflow: hidden;
+}
+img {
+    min-height: 100px;
+    width: 50%;
+    height: 50%;
+    max-width: 600px;
+    max-height: 1000px;
+    object-fit: cover;
+    object-position: center center;
+    margin-top: 3%;
+}
+h1 {
+    text-align: center;
+    color: var(--brown);
+    font-size: var(--Bold_700);
+}
+h2 {
+    text-align: center;
+    margin-top: 3%;
+    font-size: var(--Bold_700);
+}
+video {
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+}
+.video_sizzing {
+    max-width: 100%;
+    max-height: 600px;
+}
+.title-page {
+    color: var(--tittle);
+    font-size: var(--Bold_700);
+}
+li {
+    list-style: none;
+    border-bottom: 20px;
+    flex-direction: initial;
+    text-align: center;
+}
+.title-sections {
+    color: var(--tittle);
+    font-size: var(--Regular_400);
+}
+p {
+    text-align: justify;
+    font-size: var(--Light_300);
+}
+.foot_image {
+    text-align: center;
+    font-size: var(--link_font);
+}
+footer {
+    text-align: end;
+    padding-left: 50%;
+    padding-top: 20%;
+}
+.footer {
+    text-align: justify;
+    font-size: var(--Light_300);
+}
+h3 {
+    text-align: left;
+    color: var(--brown);
+    font-size: var(--tittle_text);
+}
+a {
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header nav .nav-center-section {
+    width: 50%;
+    height: 20%;
+    justify-content: right;
+    display: flex;
+    justify-items: center;
+    margin: 1%;
+    padding-top: 1%;
+    padding-left: 50%;
+    font-size: var(--link_font);
+}
+nav .nav-center-section a {
+    margin-right: 20px;
+    color: var(--link);
+    font-style: italic;
+    font-size: larger;
+}
+
+footer a {
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    color: var(--link);
+    font-style: italic;
+    font-size: larger;
+    font-size: var(--link_font);
+}
+.sec_aboutme p {
+    text-align: center;
+    font-size: var(--Light_300);
+}
+.sec_aboutme .foot_image {
+        text-align: center;
+        font-size: var(--link_font);
+}
+
+form {
+    font-size: var(--Light_300);
+    display: grid;
+    justify-content: center;
+}
+form input {
+    font-size: var(--link_font);
+    justify-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.comment_form {
+    text-align: center;
+    font-size: var(--Light_300);
+    text-decoration: underline;
+}
