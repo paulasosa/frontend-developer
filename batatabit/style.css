@@ -31,14 +31,17 @@ html {
 }
 
 header {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     width: 100%;
     min-width: 320px;
     height: 334px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
     text-align: center;
+}
+header {
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
 
 header img {
@@ -58,10 +61,6 @@ header img {
     align-self: center;
 }
 
-header {
-    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
-}
-
 .header--title-container h1 {
     font-size: 2.4rem;
     font-weight: bold;
@@ -70,7 +69,7 @@ header {
 }
 
 .header--title-container p {
-    margin-top: 25px;
+    margin-top: 24px;
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
