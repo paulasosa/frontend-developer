@@ -228,9 +228,22 @@ main {
     background-repeat: no-repeat;
 }
 
-
-
-
+/*BOTON ACTUALIZAR*/
+.currency-table--date {
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-orange);
+    border-radius: 8px;
+}
+.currency-table--date p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: var(--warm-black);
+    font-weight: 300;
+}
 
 /*ÚNICOS CAMBIOS DE LA SEGUNDA TABLA*/
 .main-currency-table .currency-table--title-com {
@@ -239,4 +252,20 @@ main {
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--secondary-blue);
+}
+
+.currency-table--date-com {
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-blue);
+    border-radius: 8px;
+}
+.currency-table--date-com p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: var(--warm-black);
+    font-weight: 300;
 }
