@@ -1,23 +1,31 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
 :root {
     --white: #ffffff;
     --black: #000;
-    --brown: #a52a2a;
     --tittle: rgb(219, 55, 55);
     --link: blue;
-    --link_font: 20px;
-    --Light_300: 24px;
-    --tittle_text: 30px;
-    --Regular_400: 35px;
-    --Bold_700: 40px;
+    --Light_300: 1.6rem;
+    --tittle_text: 3rem;
+    --Regular_400: 3.5rem;
+    --Bold_700: 4rem;
 }
-
+html {
+    font-size: 62.5%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
 body {
     padding: 10%;
     padding-right: 10%;
     max-width: 90%;
     height: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    background-color: var(--white);
+    background-image: url(./fondo_header.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .text {
     color: var(--black);
@@ -44,15 +52,19 @@ img {
     object-position: center center;
     margin-top: 3%;
 }
+
 h1 {
     text-align: center;
-    color: var(--brown);
+    justify-items: center;
+    color: var(--tittle);
     font-size: var(--Bold_700);
+    margin-top: 10px;
 }
 h2 {
     text-align: center;
-    margin-top: 3%;
+    margin-top: 3rem;
     font-size: var(--Bold_700);
+    margin-bottom: 2rem;
 }
 video {
     width: 100%;
@@ -79,7 +91,7 @@ p {
 }
 .foot_image {
     text-align: center;
-    font-size: var(--link_font);
+    font-size: var(--Light_300);
 }
 footer {
     text-align: end;
@@ -92,7 +104,8 @@ footer {
 }
 h3 {
     text-align: left;
-    color: var(--brown);
+    margin-bottom: 2rem;
+    color: var(--tittle);
     font-size: var(--tittle_text);
 }
 a {
@@ -100,21 +113,19 @@ a {
     text-decoration: none;
     cursor: pointer;
 }
-header {
-    background-image: url(./fondo_header.jpg);
-}
 
-header nav .nav-center-section {
+.nav-center-section {
     width: 50%;
     height: 20%;
     justify-content: right;
     display: flex;
     justify-items: center;
     margin: 1%;
+    padding-top: 1%;
     padding-left: 50%;
-    font-size: var(--link_font);
+    font-size: var(--Light_300);
 }
-nav .nav-center-section a {
+.nav-center-section a {
     margin-right: 20px;
     color: var(--link);
     font-style: italic;
@@ -128,7 +139,7 @@ footer a {
     color: var(--link);
     font-style: italic;
     font-size: larger;
-    font-size: var(--link_font);
+    font-size: var(--Light_300);
 }
 .sec_aboutme p {
     text-align: center;
@@ -136,7 +147,7 @@ footer a {
 }
 .sec_aboutme .foot_image {
         text-align: center;
-        font-size: var(--link_font);
+        font-size: var(--Light_300);
 }
 
 form {
@@ -145,7 +156,7 @@ form {
     justify-content: center;
 }
 form input {
-    font-size: var(--link_font);
+    font-size: var(--Light_300);
     justify-items: center;
     text-align: center;
     margin: 10px;
