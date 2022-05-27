@@ -100,6 +100,9 @@ a {
     text-decoration: none;
     cursor: pointer;
 }
+header {
+    background-image: url(./fondo_header.jpg);
+}
 
 header nav .nav-center-section {
     width: 50%;
@@ -108,7 +111,6 @@ header nav .nav-center-section {
     display: flex;
     justify-items: center;
     margin: 1%;
-    padding-top: 1%;
     padding-left: 50%;
     font-size: var(--link_font);
 }
