@@ -423,6 +423,7 @@ main {
     line-height: 1.8rem;
     color: #757575;
 }
+/*Estilos tarjetas de los planes*/
 .plans-container--card {
     position: relative;
     width: 70%;
@@ -434,4 +435,7 @@ main {
     background-color: var(--just-white);
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+.recommended {
+
 }
