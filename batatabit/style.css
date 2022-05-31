@@ -152,21 +152,26 @@ main {
 /*ESTILOS DE LAS TABLAS*/
 
 /*SCROLL Horizontal tablas*/
-/*
+.table-container--slider {
+    position: relative;
+    scroll-snap-align: center;
+}
+
 .table-container--slider {
     display: flex;
-    height: 316px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    /*scroll-snap-align: center; despues de position relative*/
+}
+
+/*ESTILOS DE LAS TABLAS*/
 
 .main-currency-table {
     width: 70%;
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 auto;
+    margin: 0 20px;
     font-family: "Inter", sans-serif;
 }
 .main-currency-table .currency-table--title {
