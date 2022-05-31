@@ -424,7 +424,7 @@ main {
     margin: 0 auto;
     margin-bottom: 50px;
 }
-.pans--title h2 {
+.plans--title h2 {
     padding-top: 50px;
     font-size: 2.4rem;
     font-weight: bold;
@@ -521,16 +521,21 @@ main {
     background-image: url(./assets/icons/arrow-right-orange.svg);
     vertical-align: text-bottom;
 }
+/*Flechaspara hacer el scroll en las tablas y los planes*/
 
 .table-croll--rigth {
-
+    padding-top: 38%;
+    margin-right: 20px;
 }
 .table-scroll--left {
-
+    padding-top: 38%;
 }
 .plans-scroll--left {
-
+    padding-top: 38%;
+    margin: 5px;
 }
 .plans-scroll--rigth {
-
+    padding-top: 38%;
+    margin: 5px;
 }
+
