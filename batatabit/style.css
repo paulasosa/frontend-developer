@@ -523,19 +523,20 @@ main {
 }
 /*Flechaspara hacer el scroll en las tablas y los planes*/
 
-.table-croll--rigth {
-    padding-top: 38%;
-    margin-right: 20px;
+.main-tables-container .table-croll--rigth {
+    margin-right: 10px;
+    padding-top: 150px;
 }
 .table-scroll--left {
-    padding-top: 38%;
+    padding-top: 150px;
+    margin-left: 10px;
 }
 .plans-scroll--left {
-    padding-top: 38%;
+    padding-top: 150px;
     margin: 5px;
 }
 .plans-scroll--rigth {
-    padding-top: 38%;
+    padding-top: 150px;
     margin: 5px;
 }
 
