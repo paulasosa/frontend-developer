@@ -438,6 +438,7 @@ main {
     line-height: 1.8rem;
     color: #757575;
 }
+
 /*SCROLL Horizontal Planes*/
 .plans-container--slider {
     display: flex;
@@ -519,4 +520,17 @@ main {
     height: 20px;
     background-image: url(./assets/icons/arrow-right-orange.svg);
     vertical-align: text-bottom;
+}
+
+.table-croll--rigth {
+
+}
+.table-scroll--left {
+
+}
+.plans-scroll--left {
+
+}
+.plans-scroll--rigth {
+
 }
