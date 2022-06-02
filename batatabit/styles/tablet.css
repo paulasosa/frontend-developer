@@ -1,9 +1,11 @@
-.main-tables--container {
+/*Media queries del proyecto de clase*/
+
+.main-tables-container {
     display: flex;
     width: 930px;
     margin: 0 auto;
 }
-.products-cards--container {
+.product-cards--container {
     display: flex;
     flex-wrap: wrap;
     width: 930px;
